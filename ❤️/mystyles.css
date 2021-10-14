@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(189, 255, 255);
+}
+
+h1 {
+  color: Black;
+  margin-left: 20px;
+  height: 1cm;
+  margin-left: 23cm;
+
+}
+
+button
+{
+ margin-left: 25cm;
+}
+
+p {
+  color: Black;
+  margin-left: 20px;
+  height: 1cm;
+  margin-top: 21.5cm;
+}
+
+div {
+  color: Black;
+  margin-left: 40cm;
+  height: 1cm;
+  margin-top: -2cm;
+}
